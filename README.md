@@ -14,4 +14,6 @@ python3 -m "http.server"
 
 ```
 
-Then copy and paste http://0.0.0.0:8000/ on to your favorite browser
+Then copy and paste http://0.0.0.0:8000/ to your favorite browser
+
+Add your own image in the img folder, modify the path name and have fun
